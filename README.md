@@ -2,7 +2,7 @@
 
 ## Представляю вашему вниманию примерв основ работы в Ubuntu:
 
-[- Скрины:
+[- Скрины:](https://drive.google.com/drive/folders/1kzl_v-q5nlmmOmCloDnSzyjdhdjDJ1Vr?usp=drive_link)
   - Характеристик убунты.
   - Созданние директорий и файлов.
   - Созданние пользователей через терминал.
@@ -14,4 +14,4 @@
   - Команды для навигации по директориям. 
   - Команды для быстрого перемещения.
   - Работа с утилитой tree.
-](https://drive.google.com/drive/folders/1kzl_v-q5nlmmOmCloDnSzyjdhdjDJ1Vr?usp=drive_link).
+
