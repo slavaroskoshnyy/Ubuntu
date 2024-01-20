@@ -2,7 +2,7 @@
 
 ## Представляю вашему вниманию примеры основ работы в Ubuntu:
 
-[- Скрины:](https://drive.google.com/drive/folders/1kzl_v-q5nlmmOmCloDnSzyjdhdjDJ1Vr?usp=drive_link)
+- [Скрины:](https://drive.google.com/drive/folders/1kzl_v-q5nlmmOmCloDnSzyjdhdjDJ1Vr?usp=drive_link)
   - Характеристик Ubuntu.
   - Создание директорий и файлов.
   - Создание пользователей через терминал.
