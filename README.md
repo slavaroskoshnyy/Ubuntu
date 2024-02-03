@@ -51,4 +51,7 @@
     - Сделать так, чтобы директорию мог стереть только владелец.
     - Повторить изменение прав в численном виде.
 
+##  [Установка GUI на удаленный сервер Ubuntu.](https://drive.google.com/drive/folders/18UJ5AJkO6r4Z6qR4ApnuV2zq4U9NfTdS?usp=sharing)
+
+
 
