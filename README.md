@@ -15,7 +15,7 @@
   - Команды для быстрого перемещения.
   - Работа с утилитой tree.
   
-##  Работа на удаленной точке через vps и настройка доступ по ssh на Ubuntu:
+##  Работа на удаленной точке через vps и настройка доступа по ssh на Ubuntu:
 
 - [Скрины:](https://drive.google.com/drive/folders/1scVfNaWXWH70igQpb-RtbgJg7FVRmdc3?usp=sharing)
   - Пакетные менеджеры apt, aptitude, dpkg.
