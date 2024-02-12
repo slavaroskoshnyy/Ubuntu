@@ -2,7 +2,7 @@
 
 ## Представляю вашему вниманию примеры основ работы в Ubuntu:
 
-- [Скрины:](https://drive.google.com/drive/folders/1kzl_v-q5nlmmOmCloDnSzyjdhdjDJ1Vr?usp=drive_link)
+- [Скриншоты:](https://drive.google.com/drive/folders/1kzl_v-q5nlmmOmCloDnSzyjdhdjDJ1Vr?usp=drive_link)
   - Характеристик Ubuntu.
   - Создание директорий и файлов.
   - Создание пользователей через терминал.
@@ -17,7 +17,7 @@
 
 ## Работа на удаленной точке через vps и настройка доступа по ssh на Ubuntu:
 
-- [Скрины:](https://drive.google.com/drive/folders/1scVfNaWXWH70igQpb-RtbgJg7FVRmdc3?usp=sharing)
+- [Скриншоты:](https://drive.google.com/drive/folders/1scVfNaWXWH70igQpb-RtbgJg7FVRmdc3?usp=sharing)
   - Пакетные менеджеры apt, aptitude, dpkg.
     - Зачем нужны, их функции, различия.
     - Поиск программных пакетов в кэше. Зачем и как осуществить? Где лежит кэш доступных пакетов.
@@ -51,11 +51,9 @@
     - Сделать так, чтобы директорию мог стереть только владелец.
     - Повторить изменение прав в численном виде.
 
-## [Установка GUI на удаленный сервер Ubuntu.](https://drive.google.com/drive/folders/18UJ5AJkO6r4Z6qR4ApnuV2zq4U9NfTdS?usp=sharing)
-
 ## Работа с утилитой tree, syslog, history, просмотр усановленных пакетов, установка новых пакетов на Ubuntu:
 
-- [Скрины:](https://drive.google.com/drive/folders/198K2xSjQVCVpndGR5eCa8_GkDosRf7Py?usp=sharing)
+- [Скриншоты:](https://drive.google.com/drive/folders/198K2xSjQVCVpndGR5eCa8_GkDosRf7Py?usp=sharing)
   - Как вывести список установленных пакетов утилиты -tree по дате установки?
   - Как посмотреть дату и время обновления пакетов утилиты tree?
   - Как вывести список установленных пакетов и пронумеровать его?
@@ -67,3 +65,5 @@
   - Как проверить возможность доступа к порту 22?
   - Что делает данный конвеер du -hs /var/log/\* | sort -rh?
   - Установить nginx на впску. 
+
+## [Установка GUI на удаленный сервер Ubuntu.](https://drive.google.com/drive/folders/18UJ5AJkO6r4Z6qR4ApnuV2zq4U9NfTdS?usp=sharing)
